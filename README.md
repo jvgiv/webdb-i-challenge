@@ -39,8 +39,13 @@ Visit [SQL Try Editor at W3Schools.com](https://www.w3schools.com/Sql/tryit.asp?
 
 - constraints
   - the `id` should be the primary key for the table.
+  done
+
   - account `name` should be unique.
   - account `budget` is required.
+
+
+
 
 ## Stretch Problems
 
